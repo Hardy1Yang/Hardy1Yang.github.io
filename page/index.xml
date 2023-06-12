@@ -1,22 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Hau Hung Yang</title>
+    <title>Pages on HHY&#39;s Web Page</title>
     <link>https://Hardy1Yang.github.io/page/</link>
-    <description>Recent content in Pages on Hau Hung Yang</description>
+    <description>Recent content in Pages on HHY&#39;s Web Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster><atom:link href="https://Hardy1Yang.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>d11227103@ntu.edu.tw (Hau-Hung Yang)</managingEditor>
+    <webMaster>d11227103@ntu.edu.tw (Hau-Hung Yang)</webMaster><atom:link href="https://Hardy1Yang.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://Hardy1Yang.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
-I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+      <description>I am a highly motivated graduate with a master’s degree in Psychology from National Taiwan University (NTU, the most prestigious university in Taiwan). I have solid training in statistics and quantitative psychology, and I have five years of research experience. For my master&amp;rsquo;s thesis, I proposed a generalization of the Robbins-Monro process (an adaptive method applicable to psychophysical experiments for threshold estimation) by incorporating other response variables, such as response time and response confidence, into the process.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://Hardy1Yang.github.io/page/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/page/cv/</guid>
+      <description>Education M.S. in Psychology, National Taiwan University, Taipei, Taiwan (R.O.C.), 2022 B.S. in Psychology, National Taiwan University, Taipei, Taiwan (R.O.C.), 2022 Skills Analytical Statistical modeling (Structural equation modeling, Principal component analysis, Generalized linear model) Computational modeling (System‐dynamic modeling, Agent‐based modeling, Neural networks) Neuroimage analysis (fMRI) Programming R Latex Python Matlab SAS </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://Hardy1Yang.github.io/page/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/page/research/</guid>
+      <description>Neural Correlates of Emotion as an Arbitrator to Reconcile the Conflicts within Dual Processing in the Context of Decision Making under Risk We are performing behavioral and fMRI experiments to probe the role of emotion when people face a dual‑process induced cognitive conflict under a risky condition. I am currently engaged in the analysis of fMRI data. I am also involved in developing an estimation method for the parameters in the utility function.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://Hardy1Yang.github.io/page/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/page/teaching/</guid>
+      <description>Teaching Assistant PSY5033, Applied Linear Regression, Spring 2023 PSY7001, Experimental Design, Fall 2022 PSY3010, Intermediate Statistics, Fall 2021 PSY1004, Statistics in Psychology and Education II, Spring 2021 PSY1003, Statistics in Psychology and Education I, Fall 2020 PSY1004, Statistics in Psychology and Education II, Spring 2020 PSY1004, Statistics in Psychology and Education I, Fall 2019 </description>
     </item>
     
   </channel>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hau Hung Yang</title>
+    <title>Tags on HHY&#39;s Web Page</title>
     <link>https://Hardy1Yang.github.io/tags/</link>
-    <description>Recent content in Tags on Hau Hung Yang</description>
+    <description>Recent content in Tags on HHY&#39;s Web Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>d11227103@ntu.edu.tw (Hau-Hung Yang)</managingEditor>
+    <webMaster>d11227103@ntu.edu.tw (Hau-Hung Yang)</webMaster>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://Hardy1Yang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>example</title>
       <link>https://Hardy1Yang.github.io/tags/example/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/tags/example/</guid>
       <description></description>
     </item>
@@ -22,7 +22,7 @@
       <title>photoswipe</title>
       <link>https://Hardy1Yang.github.io/tags/photoswipe/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/tags/photoswipe/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
       <title>bigimg</title>
       <link>https://Hardy1Yang.github.io/tags/bigimg/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/tags/bigimg/</guid>
       <description></description>
     </item>
@@ -40,7 +40,7 @@
       <title>math</title>
       <link>https://Hardy1Yang.github.io/tags/math/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/tags/math/</guid>
       <description></description>
     </item>
@@ -49,7 +49,7 @@
       <title>code</title>
       <link>https://Hardy1Yang.github.io/tags/code/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/tags/code/</guid>
       <description></description>
     </item>
@@ -58,7 +58,7 @@
       <title>markdown</title>
       <link>https://Hardy1Yang.github.io/tags/markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/tags/markdown/</guid>
       <description></description>
     </item>

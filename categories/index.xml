@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hau Hung Yang</title>
+    <title>Categories on HHY&#39;s Web Page</title>
     <link>https://Hardy1Yang.github.io/categories/</link>
-    <description>Recent content in Categories on Hau Hung Yang</description>
+    <description>Recent content in Categories on HHY&#39;s Web Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster><atom:link href="https://Hardy1Yang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>d11227103@ntu.edu.tw (Hau-Hung Yang)</managingEditor>
+    <webMaster>d11227103@ntu.edu.tw (Hau-Hung Yang)</webMaster><atom:link href="https://Hardy1Yang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

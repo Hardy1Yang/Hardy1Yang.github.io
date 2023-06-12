@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Currents on HHY&#39;s Web Page</title>
+    <link>https://Hardy1Yang.github.io/current/</link>
+    <description>Recent content in Currents on HHY&#39;s Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>d11227103@ntu.edu.tw (Hau-Hung Yang)</managingEditor>
+    <webMaster>d11227103@ntu.edu.tw (Hau-Hung Yang)</webMaster>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Hardy1Yang.github.io/current/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extension of traditional random utility model</title>
+      <link>https://Hardy1Yang.github.io/current/2023-05-rut/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/current/2023-05-rut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of SE in IRT</title>
+      <link>https://Hardy1Yang.github.io/current/2023-03-irt/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/current/2023-03-irt/</guid>
+      <description>we propose a precise and practical way to calculate standard errors of parameters in the Rasch model. Because the information function is the asymptotic variance of the maximum likelihood estimator (MLE), it may be far from the variance of MLE in a finite sample. We advocate the use of a plugin estimator of empirical variance rather than the information function to calculate the standard error. In the study, we bring forth a novel technique to simplify the computation involved in estimating the empirical variance, which lowers the cost of the estimation.</description>
+    </item>
+    
+    <item>
+      <title>College preferences of high school student in Taiwan</title>
+      <link>https://Hardy1Yang.github.io/current/2022-11-college-pereference/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/current/2022-11-college-pereference/</guid>
+      <description>We look into high school students&amp;rsquo; college preferences. In order to achieve this, we use the empirical data, students&amp;rsquo; decision behavior throughout the application process for schools, and estimate the parameters of the utility model by maximum likelihood estimation. Due to the fact that every student considers a variety of options when making a decision, the empirical data is nonidentical, which complicates the likelihood function. In our research, we need to estimate more than 2300 parameters from the large and nonidentical samples (240000 students).</description>
+    </item>
+    
+    <item>
+      <title>Identifiability of SEM</title>
+      <link>https://Hardy1Yang.github.io/current/2022-10-identifiability/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/current/2022-10-identifiability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Testing under item response theory</title>
+      <link>https://Hardy1Yang.github.io/current/2022-09-irt/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/current/2022-09-irt/</guid>
+      <description>In this study, we work together with the educational platform PaGamO to create a workable E-Learning system. The purpose of this study is to enhance rural kids&amp;rsquo; academic performance and support teachers in assessing their students&amp;rsquo; progress. In the platform, the problems answered by students are randomly selected from a large item bank that contains more than one million items. And students only respond to a small proportion of items. As a result, the data is sparse, but the sample size is large (more than 100 thousand students).</description>
+    </item>
+    
+  </channel>
+</rss>

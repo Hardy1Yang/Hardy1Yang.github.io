@@ -117,7 +117,7 @@ figcaption styles
     bottom: 0;
     left: 0;
     right: 0;
-    background: #000;
+    background: #841515;
     color: #FFF;
     text-align: center;
     font-size: 75%; /* change this if you want bigger text */
@@ -142,7 +142,7 @@ figcaption styles
 .gallery.caption-effect-appear figure:not(:hover) figcaption,
 .fancy-figure.caption-effect-fade figure:not(:hover) figcaption,
 .fancy-figure.caption-effect-appear figure:not(:hover) figcaption {
-    background: rgba(0, 0, 0, 0);
+    background: rgba(178, 4, 4, 0);
     opacity: 0;
 }
 .gallery.caption-effect-slide.caption-position-bottom figure:not(:hover) figcaption,
