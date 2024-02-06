@@ -3,13 +3,14 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #000000;
   position: relative;
   background: #FFF;
   display: flex;
   flex-flow: column;
   height: 100vh;
 }
+
 @media (prefers-color-scheme: dark) {
   body {
     background: black;
