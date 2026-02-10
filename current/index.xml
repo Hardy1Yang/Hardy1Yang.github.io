@@ -8,70 +8,70 @@
     <language>en</language>
     <managingEditor>d11227103@ntu.edu.tw (Hau-Hung Yang)</managingEditor>
     <webMaster>d11227103@ntu.edu.tw (Hau-Hung Yang)</webMaster>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Hardy1Yang.github.io/current/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Hardy1Yang.github.io/current/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Precision and Robustness in Adaptive Testing</title>
+      <link>https://Hardy1Yang.github.io/current/2025-06-dissertation/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/current/2025-06-dissertation/</guid>
+      <description>My dissertation addresses the finite-sample performance of Computerized Adaptive Testing (CAT) algorithms by incorporating the Online Convex Optimization (OCO) framework. It focuses on two complementary themes. On the precision front, I demonstrate that classical information-maximization methods constitute no-regret algorithms under the OCO framework, and I construct finite-sample confidence intervals with anytime-valid properties using martingale concentration inequalities and confidence sequence theory. On the robustness front, I adapt the Upper Confidence Bound (UCB) algorithm from multi-armed bandit literature to design stability-oriented item selection strategies that account for the exploration-exploitation trade-off, addressing premature commitment bias from early-stage estimation error and performance degradation from uncertain item parameters during online calibration.</description>
+    </item>
+    <item>
+      <title>Labor Market Sorting in Taiwan</title>
+      <link>https://Hardy1Yang.github.io/current/2025-03-labor-market/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/current/2025-03-labor-market/</guid>
+      <description>Using comprehensive administrative data from Taiwan&amp;rsquo;s Ministry of Finance, we analyze wage inequality trends in Taiwan through the lens of the Abowd-Kramarz-Margolis (AKM) model. This framework allows us to decompose wages into worker fixed effects and firm fixed effects, revealing the extent to which the sorting of workers across firms contributes to overall wage dispersion. This paper has been accepted for publication in the Taiwan Economic Review.</description>
+    </item>
     <item>
       <title>Dog, Cat, Baby</title>
       <link>https://Hardy1Yang.github.io/current/2025-pet/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2025-pet/</guid>
-      <description>In most advanced economies, economic prosperity has paradoxically been accompanied by a sustained decline in fertility rates. This pattern is also evident in Taiwan. At the same time, Taiwan has seen a steady increase in both the number of pet-owning households and the average expenditure per pet. These opposing trends give rise to a central research question: are pets substitutes for children, or do they function as complements?
-Some scholars and observers have posited that pet ownership may foster the desire to establish a family and enter into marriage, potentially leading to higher fertility rates.</description>
+      <description>In most advanced economies, economic prosperity has paradoxically been accompanied by a sustained decline in fertility rates. This pattern is also evident in Taiwan. At the same time, Taiwan has seen a steady increase in both the number of pet-owning households and the average expenditure per pet. These opposing trends give rise to a central research question: are pets substitutes for children, or do they function as complements?&#xA;Some scholars and observers have posited that pet ownership may foster the desire to establish a family and enter into marriage, potentially leading to higher fertility rates.</description>
     </item>
-    
     <item>
       <title>Household tax optimization</title>
       <link>https://Hardy1Yang.github.io/current/2025-05-tax_optimization/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2025-05-tax_optimization/</guid>
       <description>This study aims to examine the economic decision-making behavior within households, with a particular focus on whether individuals engage in intra-household communication to achieve decisions that are Pareto efficient—that is, outcomes in which no individual can be made better off without making another worse off. The research contrasts two behavioral scenarios: one in which household members coordinate and negotiate with the objective of maximizing collective welfare, and another in which individuals act independently, pursuing unilateral utility maximization without mutual consultation.</description>
     </item>
-    
     <item>
       <title>Extension of traditional random utility model</title>
       <link>https://Hardy1Yang.github.io/current/2023-05-rut/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2023-05-rut/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Evaluation of SE in IRT</title>
       <link>https://Hardy1Yang.github.io/current/2023-03-irt/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2023-03-irt/</guid>
       <description>We propose a precise and practical way to calculate standard errors of parameters in the Rasch model. Because the information function is the asymptotic variance of the maximum likelihood estimator (MLE), it may be far from the variance of MLE in a finite sample. We advocate the use of a plugin estimator of empirical variance rather than the information function to calculate the standard error. In the study, we bring forth a novel technique to simplify the computation involved in estimating the empirical variance, which lowers the cost of the estimation.</description>
     </item>
-    
     <item>
       <title>College preferences of high school student in Taiwan</title>
       <link>https://Hardy1Yang.github.io/current/2022-11-college-pereference/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2022-11-college-pereference/</guid>
       <description>We look into high school students&amp;rsquo; college preferences. In order to achieve this, we use the empirical data, students&amp;rsquo; decision behavior throughout the application process for schools, and estimate the parameters of the utility model by maximum likelihood estimation. Due to the fact that every student considers a variety of options when making a decision, the empirical data is nonidentical, which complicates the likelihood function. In our research, we need to estimate more than 2300 parameters from the large and nonidentical samples (240000 students).</description>
     </item>
-    
     <item>
       <title>Identifiability of SEM</title>
       <link>https://Hardy1Yang.github.io/current/2022-10-identifiability/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2022-10-identifiability/</guid>
       <description>The family of polychoric models (PM) considers ordinal data as categorization of latent multivariate normal variables. Such framework is commonly used to study the association between ordinal variables, often leading to the polychoric correlation model (PCM). Moreover, PM subsumes several psychometric models, such as the graded response model (Samejima, 1968; 1997). However, the property of identifiability of PM has not been addressed in the literature. To make the issue more complicated, the normality assumption underlying PM has been challenged recently; researchers have suggested that the latent variables underlying PM could be generalized to elliptical distributions.</description>
     </item>
-    
     <item>
       <title>Adaptive Testing under item response theory</title>
       <link>https://Hardy1Yang.github.io/current/2022-09-irt/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2022-09-irt/</guid>
       <description>In this study, we work together with the educational platform PaGamO to create a workable E-Learning system. The purpose of this study is to enhance rural kids&amp;rsquo; academic performance and support teachers in assessing their students&amp;rsquo; progress. In the platform, the problems answered by students are randomly selected from a large item bank that contains more than one million items. And students only respond to a small proportion of items. As a result, the data is sparse, but the sample size is large (more than 100 thousand students).</description>
     </item>
-    
   </channel>
 </rss>

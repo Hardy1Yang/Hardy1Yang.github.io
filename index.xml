@@ -8,289 +8,196 @@
     <language>en</language>
     <managingEditor>d11227103@ntu.edu.tw (Hau-Hung Yang)</managingEditor>
     <webMaster>d11227103@ntu.edu.tw (Hau-Hung Yang)</webMaster>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Hardy1Yang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Hardy1Yang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Precision and Robustness in Adaptive Testing</title>
+      <link>https://Hardy1Yang.github.io/current/2025-06-dissertation/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/current/2025-06-dissertation/</guid>
+      <description>My dissertation addresses the finite-sample performance of Computerized Adaptive Testing (CAT) algorithms by incorporating the Online Convex Optimization (OCO) framework. It focuses on two complementary themes. On the precision front, I demonstrate that classical information-maximization methods constitute no-regret algorithms under the OCO framework, and I construct finite-sample confidence intervals with anytime-valid properties using martingale concentration inequalities and confidence sequence theory. On the robustness front, I adapt the Upper Confidence Bound (UCB) algorithm from multi-armed bandit literature to design stability-oriented item selection strategies that account for the exploration-exploitation trade-off, addressing premature commitment bias from early-stage estimation error and performance degradation from uncertain item parameters during online calibration.</description>
+    </item>
+    <item>
+      <title>Labor Market Sorting in Taiwan</title>
+      <link>https://Hardy1Yang.github.io/current/2025-03-labor-market/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/current/2025-03-labor-market/</guid>
+      <description>Using comprehensive administrative data from Taiwan&amp;rsquo;s Ministry of Finance, we analyze wage inequality trends in Taiwan through the lens of the Abowd-Kramarz-Margolis (AKM) model. This framework allows us to decompose wages into worker fixed effects and firm fixed effects, revealing the extent to which the sorting of workers across firms contributes to overall wage dispersion. This paper has been accepted for publication in the Taiwan Economic Review.</description>
+    </item>
     <item>
       <title>Dog, Cat, Baby</title>
       <link>https://Hardy1Yang.github.io/current/2025-pet/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2025-pet/</guid>
-      <description>In most advanced economies, economic prosperity has paradoxically been accompanied by a sustained decline in fertility rates. This pattern is also evident in Taiwan. At the same time, Taiwan has seen a steady increase in both the number of pet-owning households and the average expenditure per pet. These opposing trends give rise to a central research question: are pets substitutes for children, or do they function as complements?
-Some scholars and observers have posited that pet ownership may foster the desire to establish a family and enter into marriage, potentially leading to higher fertility rates.</description>
+      <description>In most advanced economies, economic prosperity has paradoxically been accompanied by a sustained decline in fertility rates. This pattern is also evident in Taiwan. At the same time, Taiwan has seen a steady increase in both the number of pet-owning households and the average expenditure per pet. These opposing trends give rise to a central research question: are pets substitutes for children, or do they function as complements?&#xA;Some scholars and observers have posited that pet ownership may foster the desire to establish a family and enter into marriage, potentially leading to higher fertility rates.</description>
     </item>
-    
     <item>
       <title>Household tax optimization</title>
       <link>https://Hardy1Yang.github.io/current/2025-05-tax_optimization/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2025-05-tax_optimization/</guid>
       <description>This study aims to examine the economic decision-making behavior within households, with a particular focus on whether individuals engage in intra-household communication to achieve decisions that are Pareto efficient—that is, outcomes in which no individual can be made better off without making another worse off. The research contrasts two behavioral scenarios: one in which household members coordinate and negotiate with the objective of maximizing collective welfare, and another in which individuals act independently, pursuing unilateral utility maximization without mutual consultation.</description>
     </item>
-    
     <item>
       <title>Extension of traditional random utility model</title>
       <link>https://Hardy1Yang.github.io/current/2023-05-rut/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2023-05-rut/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Evaluation of SE in IRT</title>
       <link>https://Hardy1Yang.github.io/current/2023-03-irt/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2023-03-irt/</guid>
       <description>We propose a precise and practical way to calculate standard errors of parameters in the Rasch model. Because the information function is the asymptotic variance of the maximum likelihood estimator (MLE), it may be far from the variance of MLE in a finite sample. We advocate the use of a plugin estimator of empirical variance rather than the information function to calculate the standard error. In the study, we bring forth a novel technique to simplify the computation involved in estimating the empirical variance, which lowers the cost of the estimation.</description>
     </item>
-    
     <item>
       <title>College preferences of high school student in Taiwan</title>
       <link>https://Hardy1Yang.github.io/current/2022-11-college-pereference/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2022-11-college-pereference/</guid>
       <description>We look into high school students&amp;rsquo; college preferences. In order to achieve this, we use the empirical data, students&amp;rsquo; decision behavior throughout the application process for schools, and estimate the parameters of the utility model by maximum likelihood estimation. Due to the fact that every student considers a variety of options when making a decision, the empirical data is nonidentical, which complicates the likelihood function. In our research, we need to estimate more than 2300 parameters from the large and nonidentical samples (240000 students).</description>
     </item>
-    
     <item>
       <title>Identifiability of SEM</title>
       <link>https://Hardy1Yang.github.io/current/2022-10-identifiability/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2022-10-identifiability/</guid>
       <description>The family of polychoric models (PM) considers ordinal data as categorization of latent multivariate normal variables. Such framework is commonly used to study the association between ordinal variables, often leading to the polychoric correlation model (PCM). Moreover, PM subsumes several psychometric models, such as the graded response model (Samejima, 1968; 1997). However, the property of identifiability of PM has not been addressed in the literature. To make the issue more complicated, the normality assumption underlying PM has been challenged recently; researchers have suggested that the latent variables underlying PM could be generalized to elliptical distributions.</description>
     </item>
-    
     <item>
       <title>Adaptive Testing under item response theory</title>
       <link>https://Hardy1Yang.github.io/current/2022-09-irt/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/current/2022-09-irt/</guid>
       <description>In this study, we work together with the educational platform PaGamO to create a workable E-Learning system. The purpose of this study is to enhance rural kids&amp;rsquo; academic performance and support teachers in assessing their students&amp;rsquo; progress. In the platform, the problems answered by students are randomly selected from a large item bank that contains more than one million items. And students only respond to a small proportion of items. As a result, the data is sparse, but the sample size is large (more than 100 thousand students).</description>
     </item>
-    
     <item>
       <title>Adaptive method</title>
       <link>https://Hardy1Yang.github.io/post/adaptive/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/post/adaptive/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Drift diffusion model</title>
       <link>https://Hardy1Yang.github.io/post/ddm/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/post/ddm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Item response theory</title>
       <link>https://Hardy1Yang.github.io/post/irt/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/post/irt/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Photoswipe Gallery Sample</title>
       <link>https://Hardy1Yang.github.io/example/2017-03-20-photoswipe-gallery-sample/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2017-03-20-photoswipe-gallery-sample/</guid>
-      <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;http://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
-	  
-  
-  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://Hardy1Yang.github.io/css/hugo-easy-gallery.css&#34; /&gt;
-  &lt;div class=&#34;box&#34; &gt;
-    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://Hardy1Yang.github.io/img/hexagon-thumb.jpg&#39;);&#34;&gt;
-        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://Hardy1Yang.github.io/img/hexagon-thumb.jpg&#34; alt=&#34;/img/hexagon-thumb.jpg&#34;/&gt;
-      &lt;/div&gt;
-      &lt;a href=&#34;https://Hardy1Yang.github.io/img/hexagon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-
-  
-  
-  &lt;div class=&#34;box&#34; &gt;
-    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://Hardy1Yang.github.io/img/sphere-thumb.jpg&#39;);&#34;&gt;
-        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://Hardy1Yang.github.io/img/sphere-thumb.jpg&#34; alt=&#34;Sphere&#34;/&gt;
-      &lt;/div&gt;
-      &lt;a href=&#34;https://Hardy1Yang.github.io/img/sphere.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-        &lt;figcaption&gt;
-            &lt;p&gt;Sphere&lt;/p&gt;
-        &lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-
-  
-  
-  &lt;div class=&#34;box&#34; &gt;
-    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://Hardy1Yang.github.io/img/triangle-thumb.jpg&#39;);&#34;&gt;
-        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://Hardy1Yang.github.io/img/triangle-thumb.jpg&#34; alt=&#34;This is a long comment about a triangle&#34;/&gt;
-      &lt;/div&gt;
-      &lt;a href=&#34;https://Hardy1Yang.github.io/img/triangle.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-        &lt;figcaption&gt;
-            &lt;p&gt;Triangle&lt;/p&gt;
-        &lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-
-
-&lt;/div&gt;</description>
+      <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;http://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xD;&#xA;&#x9;  &#xD;&#xA;  &#xD;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://Hardy1Yang.github.io/css/hugo-easy-gallery.css&#34; /&gt;&#xD;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xD;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://Hardy1Yang.github.io//img/hexagon-thumb.jpg&#39;);&#34;&gt;&#xD;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://Hardy1Yang.github.io/img/hexagon-thumb.jpg&#34; alt=&#34;/img/hexagon-thumb.jpg&#34;/&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;a href=&#34;https://Hardy1Yang.github.io/img/hexagon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &lt;/figure&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xD;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://Hardy1Yang.github.io//img/sphere-thumb.jpg&#39;);&#34;&gt;&#xD;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://Hardy1Yang.github.io/img/sphere-thumb.jpg&#34; alt=&#34;Sphere&#34;/&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;a href=&#34;https://Hardy1Yang.github.io/img/sphere.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xD;&#xA;        &lt;figcaption&gt;&#xD;&#xA;            &lt;p&gt;Sphere&lt;/p&gt;&#xD;&#xA;        &lt;/figcaption&gt;&#xD;&#xA;    &lt;/figure&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xD;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://Hardy1Yang.github.io//img/triangle-thumb.jpg&#39;);&#34;&gt;&#xD;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://Hardy1Yang.github.io/img/triangle-thumb.jpg&#34; alt=&#34;This is a long comment about a triangle&#34;/&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;a href=&#34;https://Hardy1Yang.github.io/img/triangle.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xD;&#xA;        &lt;figcaption&gt;&#xD;&#xA;            &lt;p&gt;Triangle&lt;/p&gt;&#xD;&#xA;        &lt;/figcaption&gt;&#xD;&#xA;    &lt;/figure&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Big Image Sample</title>
       <link>https://Hardy1Yang.github.io/example/2017-03-07-bigimg-sample/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2017-03-07-bigimg-sample/</guid>
       <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Math Sample</title>
       <link>https://Hardy1Yang.github.io/example/2017-03-05-math-sample/</link>
-      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2017-03-05-math-sample/</guid>
-      <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
-&lt;p&gt;$$
-\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
-$$&lt;/p&gt;
-&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/Khan/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;http://tiddlywiki.com/plugins/tiddlywiki/katex/&#34;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/Khan/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;http://tiddlywiki.com/plugins/tiddlywiki/katex/&#34;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Code Sample</title>
       <link>https://Hardy1Yang.github.io/example/2016-03-08-code-sample/</link>
-      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Flake it till you make it</title>
       <link>https://Hardy1Yang.github.io/example/2015-02-26-flake-it-till-you-make-it/</link>
-      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2015-02-26-flake-it-till-you-make-it/</guid>
       <description>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?</description>
     </item>
-    
     <item>
       <title>Test markdown</title>
       <link>https://Hardy1Yang.github.io/example/2015-02-20-test-markdown/</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2015-02-20-test-markdown/</guid>
-      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
-Here is some bold text
-Here is a secondary heading Here&amp;rsquo;s a useless table:
-Number Next number Previous number Five Six Four Ten Eleven Nine Seven Eight Six Two Three One How about a yummy crepe?</description>
+      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.&#xA;Here is some bold text&#xA;Here is a secondary heading Here&amp;rsquo;s a useless table:&#xA;Number Next number Previous number Five Six Four Ten Eleven Nine Seven Eight Six Two Three One How about a yummy crepe?</description>
     </item>
-    
     <item>
       <title>To be</title>
       <link>https://Hardy1Yang.github.io/example/2015-02-13-hamlet-monologue/</link>
-      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2015-02-13-hamlet-monologue/</guid>
       <description>To be, or not to be&amp;ndash;that is the question: Whether &amp;rsquo;tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep&amp;ndash; No more&amp;ndash;and by a sleep to say we end The heartache, and the thousand natural shocks That flesh is heir to. &amp;lsquo;Tis a consummation Devoutly to be wished. To die, to sleep&amp;ndash; To sleep&amp;ndash;perchance to dream: ay, there&amp;rsquo;s the rub, For in that sleep of death what dreams may come When we have shuffled off this mortal coil, Must give us pause.</description>
     </item>
-    
     <item>
       <title>Dear diary</title>
       <link>https://Hardy1Yang.github.io/example/2015-01-27-dear-diary/</link>
-      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2015-01-27-dear-diary/</guid>
       <description>What is it with that Mary girl? Dragging me to school every day. As if I had a choice. What you don&amp;rsquo;t hear in those nursery rhymes is that she starves me if I don&amp;rsquo;t go to school with her; it&amp;rsquo;s the only way I can stay alive! I&amp;rsquo;m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).</description>
     </item>
-    
     <item>
       <title>Soccer</title>
       <link>https://Hardy1Yang.github.io/example/2015-01-19-soccer/</link>
-      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2015-01-19-soccer/</guid>
-      <description>From Wikipedia:
-Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world&amp;rsquo;s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.</description>
+      <description>From Wikipedia:&#xA;Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world&amp;rsquo;s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.</description>
     </item>
-    
     <item>
       <title>Pirates arrrr</title>
       <link>https://Hardy1Yang.github.io/example/2015-01-15-pirates/</link>
-      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2015-01-15-pirates/</guid>
       <description>Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.</description>
     </item>
-    
     <item>
       <title>First post!</title>
       <link>https://Hardy1Yang.github.io/example/2015-01-04-first-post/</link>
-      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/example/2015-01-04-first-post/</guid>
       <description>This is my first post, how exciting!</description>
     </item>
-    
     <item>
       <title>About me</title>
       <link>https://Hardy1Yang.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/page/about/</guid>
-      <description>I am a highly motivated graduate with a master’s degree in Psychology from National Taiwan University (NTU, the most prestigious university in Taiwan). I have solid training in statistics and quantitative psychology, and I have five years of research experience. For my master&amp;rsquo;s thesis, I proposed a generalization of the Robbins-Monro process (an adaptive method applicable to psychophysical experiments for threshold estimation) by incorporating other response variables, such as response time and response confidence, into the process.</description>
+      <description>I am a Ph.D. candidate in Psychology at National Taiwan University (NTU), expecting to graduate in July 2026. My research focuses on mathematical psychology and psychometrics, with a particular emphasis on developing finite-sample theoretical guarantees for Computerized Adaptive Testing (CAT) algorithms. My dissertation, supervised by Prof. Yung-Fong Hsu, bridges Item Response Theory and Online Convex Optimization to address both the precision and robustness of adaptive testing.&#xA;I have published in journals including Psychometrika, Journal of Mathematical Psychology, and Behaviormetrika, and have presented at major international conferences such as IMPS, EcoSta, and MathPsych.</description>
     </item>
-    
     <item>
       <title>Curriculum Vitae</title>
       <link>https://Hardy1Yang.github.io/page/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/page/cv/</guid>
-      <description>Paper Yang, H.‑H., &amp;amp; Hsu, Y.‑F. (2024). The generalized Robbins‑Monro process and its application to psychophysical experiments for threshold estimation. Journal of Mathematical Psychology. https://doi.org/10.1016/j.jmp.2024.102855.
-Yang, H.-H., &amp;amp; Hsu, Y.-F. (2024). A Note on the application of stochastic approximation to computerized adaptive testing. Behaviormetrika, 1-18. https://doi.org/10.1007/s41237-023-00215-0
-Cheng, C., Yang, H.‑H., &amp;amp; Hsu, Y.‑F. (2025). Identifiability of polychoric models with latent elliptical distributions. Psychometrika. Published online 2025:1-22. doi:10.1017/psy.2024.25
-Working paper Chen, K.</description>
+      <description>Education Ph.D. in Psychology (Expected July 2026), National Taiwan University, Taipei, Taiwan (R.O.C.) GPA: 4.19/4.3 Dissertation: Precision and Robustness in Adaptive Testing: An Item Response Theory Analysis within an Online Convex Optimization Framework Advisor: Prof. Yung-Fong Hsu M.S. in Psychology, National Taiwan University, Taipei, Taiwan (R.O.C.), 2022 GPA: 4.13/4.3 B.S. in Psychology, National Taiwan University, Taipei, Taiwan (R.O.C.), 2020 GPA: 4.12/4.3 Employment Full-time Research Assistant (R&amp;amp;D Substitute Military Service), Department of Economics, National Taiwan University, July 2023 &amp;ndash; February 2025 Published Papers Yang, H.</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://Hardy1Yang.github.io/page/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/page/research/</guid>
-      <description>Neural Correlates of Emotion as an Arbitrator to Reconcile the Conflicts within Dual Processing in the Context of Decision Making under Risk We are performing behavioral and fMRI experiments to probe the role of emotion when people face a dual‑process induced cognitive conflict under a risky condition. I am currently engaged in the analysis of fMRI data. I am also involved in developing an estimation method for the parameters in the utility function.</description>
+      <description>Precision and Robustness in Adaptive Testing: An IRT Analysis within an Online Convex Optimization Framework (Dissertation) My dissertation addresses the finite-sample performance of Computerized Adaptive Testing (CAT) algorithms by incorporating the Online Convex Optimization (OCO) framework. On the precision front, I demonstrate that classical information-maximization methods constitute no-regret algorithms and construct anytime-valid confidence intervals using martingale concentration inequalities. On the robustness front, I adapt the Upper Confidence Bound algorithm from multi-armed bandit literature to design item selection strategies that account for the exploration-exploitation trade-off in early-stage estimation.</description>
     </item>
-    
     <item>
       <title>Teaching</title>
       <link>https://Hardy1Yang.github.io/page/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/page/teaching/</guid>
-      <description>Teaching Assistant PSY5033, Applied Linear Regression, Spring 2023 PSY7001, Experimental Design, Fall 2022 PSY3010, Intermediate Statistics, Fall 2021 PSY1004, Statistics in Psychology and Education II, Spring 2021 PSY1003, Statistics in Psychology and Education I, Fall 2020 PSY1004, Statistics in Psychology and Education II, Spring 2020 PSY1004, Statistics in Psychology and Education I, Fall 2019 </description>
+      <description>Teaching Assistant PSY7001, Experimental Design, Fall 2024 PSY5033, Applied Linear Regression, Spring 2023 PSY7001, Experimental Design, Fall 2022 PSY3010, Intermediate Statistics, Fall 2021 PSY1004, Statistics in Psychology and Education II, Spring 2021 PSY1003, Statistics in Psychology and Education I, Fall 2020 PSY1004, Statistics in Psychology and Education II, Spring 2020 PSY1003, Statistics in Psychology and Education I, Fall 2019 </description>
     </item>
-    
   </channel>
 </rss>
