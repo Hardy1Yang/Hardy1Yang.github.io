@@ -11,8 +11,9 @@
  
 
 
-      <title>Item response theory - Hau-Hung Yang</title>
+      <title>Item Response Theory - Hau-Hung Yang</title>
 
+  <meta name="description" content="Statistical framework for modeling responses to test items">
   <meta name="author" content="Hau-Hung Yang"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -60,10 +61,10 @@
   "author": {
     "name" : "Hau-Hung Yang"
   },
-  "headline": "Item response theory",
-  "description" : "",
+  "headline": "Item Response Theory",
+  "description" : "Item Response Theory (IRT) is a family of statistical models that describe the relationship between a latent trait (e.g., ability, attitude) and the probability of a particular response to a test item. Unlike classical test theory, IRT models item-level behavior, enabling more precise measurement and principled test construction.\nWhy IRT matters IRT provides the theoretical backbone for modern educational and psychological measurement. It underlies Computerized Adaptive Testing (CAT), item banking, test equating, and differential item functioning analysis.",
   "inLanguage" : "en",
-  "wordCount":  0 ,
+  "wordCount":  363 ,
   "datePublished" : "2022-01-01T00:00:00",
   "dateModified" : "2022-01-01T00:00:00",
   "image" : "https:\/\/Hardy1Yang.github.io\/img\/icon.png",
@@ -82,13 +83,15 @@
 }
 </script>
 
-<meta property="og:title" content="Item response theory" />
+<meta property="og:title" content="Item Response Theory" />
+<meta property="og:description" content="Statistical framework for modeling responses to test items">
 <meta property="og:image" content="https://Hardy1Yang.github.io/img/icon.png" />
 <meta property="og:url" content="https://Hardy1Yang.github.io/post/irt/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="HHY&#39;s Web Page" />
 
-  <meta name="twitter:title" content="Item response theory" />
+  <meta name="twitter:title" content="Item Response Theory" />
+  <meta name="twitter:description" content="Statistical framework for modeling responses to test items">
   <meta name="twitter:image" content="https://Hardy1Yang.github.io/img/icon.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <link href='https://Hardy1Yang.github.io/img/icon.png' rel='icon' type='image/x-icon'/>
@@ -255,9 +258,13 @@
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
               
-                <h1>Item response theory</h1>
+                <h1>Item Response Theory</h1>
               
               
+              
+                
+                  <h2 class="post-subheading">Statistical framework for modeling responses to test items</h2>
+                
               
               
                 <span class="post-meta">
@@ -266,10 +273,10 @@
   <i class="fas fa-calendar"></i>&nbsp;Posted on January 1, 2022
   
   
-    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;0&nbsp;minutes
+    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;2&nbsp;minutes
   
   
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;0&nbsp;words
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;363&nbsp;words
   
   
     
@@ -296,7 +303,32 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        
+        <p>Item Response Theory (IRT) is a family of statistical models that describe the relationship between a latent trait (e.g., ability, attitude) and the probability of a particular response to a test item. Unlike classical test theory, IRT models item-level behavior, enabling more precise measurement and principled test construction.</p>
+<h2 id="why-irt-matters">Why IRT matters</h2>
+<p>IRT provides the theoretical backbone for modern educational and psychological measurement. It underlies Computerized Adaptive Testing (CAT), item banking, test equating, and differential item functioning analysis. By modeling each item&rsquo;s characteristics (difficulty, discrimination, guessing), IRT enables tests that adapt to individual examinees and yield comparable scores across different item sets.</p>
+<h2 id="my-research-in-irt">My research in IRT</h2>
+<p>My work in IRT spans both theoretical foundations and practical applications:</p>
+<ul>
+<li>
+<p><strong>Finite-sample properties of ability estimation.</strong> The standard approach uses the Fisher information as a proxy for the variance of the maximum likelihood estimator (MLE). However, this is an asymptotic approximation that can be inaccurate for short tests. I developed a parametric bootstrap method for estimating standard errors that is both asymptotically valid and practically efficient, with a novel algorithm to reduce computational cost (submitted to <em>PsyArXiv</em>).</p>
+</li>
+<li>
+<p><strong>Existence and uniqueness of the MLE.</strong> With Che Cheng and Yung-Fong Hsu, I investigated conditions under which the MLE of the latent trait exists and is unique when the prior distribution is log-concave. This work clarifies when standard estimation procedures are well-defined (preprint on <em>PsyArXiv</em>).</p>
+</li>
+<li>
+<p><strong>Identifiability of polychoric models.</strong> Many structural equation models for ordinal data rely on polychoric correlations, which assume latent normality. We generalized this to latent elliptical distributions and derived the identifiability constraints, published in <em>Psychometrika</em> (2025).</p>
+</li>
+<li>
+<p><strong>Bayesian adaptive testing.</strong> With Chia-Min Wei and Yu-Chang Chen, I studied the consistency of Bayesian adaptive testing under the Rasch model from a Bayesian decision theory perspective (preprint on <em>arXiv</em>).</p>
+</li>
+<li>
+<p><strong>Online Convex Optimization framework for CAT.</strong> My dissertation bridges IRT and online learning theory, showing that the classical maximum information method constitutes a no-regret algorithm under the OCO framework, and constructing anytime-valid confidence intervals for ability estimates.</p>
+</li>
+<li>
+<p><strong>Applied IRT for education.</strong> In collaboration with an online learning platform (PaGamO), I applied the two-parameter IRT model to estimate abilities of 100K+ students from a 1M+ item bank using joint maximum likelihood estimation.</p>
+</li>
+</ul>
+
 
         
 
@@ -310,7 +342,7 @@
     <ul class="share">
       
       <li>
-        <a href="//twitter.com/share?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;text=Item%20response%20theory&amp;via=" target="_blank" title="Share on Twitter">
+        <a href="//twitter.com/share?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;text=Item%20Response%20Theory&amp;via=" target="_blank" title="Share on Twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -324,28 +356,28 @@
   
       
       <li>
-        <a href="//reddit.com/submit?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;title=Item%20response%20theory" target="_blank" title="Share on Reddit">
+        <a href="//reddit.com/submit?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;title=Item%20Response%20Theory" target="_blank" title="Share on Reddit">
           <i class="fab fa-reddit"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;title=Item%20response%20theory" target="_blank" title="Share on LinkedIn">
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;title=Item%20Response%20Theory" target="_blank" title="Share on LinkedIn">
           <i class="fab fa-linkedin"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;title=Item%20response%20theory" target="_blank" title="Share on StumbleUpon">
+        <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;title=Item%20Response%20Theory" target="_blank" title="Share on StumbleUpon">
           <i class="fab fa-stumbleupon"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;description=Item%20response%20theory" target="_blank" title="Share on Pinterest">
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fHardy1Yang.github.io%2fpost%2firt%2f&amp;description=Item%20Response%20Theory" target="_blank" title="Share on Pinterest">
           <i class="fab fa-pinterest"></i>
         </a>
       </li>
@@ -369,7 +401,7 @@
           
           
             <li class="next">
-              <a href="https://Hardy1Yang.github.io/post/ddm/" data-toggle="tooltip" data-placement="top" title="Drift diffusion model">Next Post &rarr;</a>
+              <a href="https://Hardy1Yang.github.io/post/ddm/" data-toggle="tooltip" data-placement="top" title="Drift Diffusion Model">Next Post &rarr;</a>
             </li>
           
         </ul>

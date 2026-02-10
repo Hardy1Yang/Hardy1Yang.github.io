@@ -11,25 +11,25 @@
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://Hardy1Yang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adaptive method</title>
+      <title>Adaptive Methods</title>
       <link>https://Hardy1Yang.github.io/post/adaptive/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/post/adaptive/</guid>
-      <description></description>
+      <description>Adaptive methods refer to experimental procedures in which the stimulus presented on each trial depends on the observer&amp;rsquo;s responses on previous trials. In psychophysics, these methods efficiently estimate perceptual thresholds by concentrating stimulus presentations near the threshold region. In educational testing, the same principle drives Computerized Adaptive Testing (CAT), where item selection is tailored to the examinee&amp;rsquo;s estimated ability.&#xA;Stochastic approximation At the core of many adaptive methods lies stochastic approximation, originally introduced by Robbins and Monro (1951).</description>
     </item>
     <item>
-      <title>Drift diffusion model</title>
+      <title>Drift Diffusion Model</title>
       <link>https://Hardy1Yang.github.io/post/ddm/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/post/ddm/</guid>
-      <description></description>
+      <description>The Drift Diffusion Model (DDM) is a mathematical model of two-alternative forced-choice decision-making. It assumes that evidence accumulates over time as a noisy process (Wiener diffusion) drifting toward one of two decision boundaries. The model simultaneously accounts for both choice accuracy and response time distributions, making it a powerful tool for understanding the cognitive mechanisms underlying decisions.&#xA;Key components The DDM is characterized by several parameters, each with a psychological interpretation:</description>
     </item>
     <item>
-      <title>Item response theory</title>
+      <title>Item Response Theory</title>
       <link>https://Hardy1Yang.github.io/post/irt/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
       <guid>https://Hardy1Yang.github.io/post/irt/</guid>
-      <description></description>
+      <description>Item Response Theory (IRT) is a family of statistical models that describe the relationship between a latent trait (e.g., ability, attitude) and the probability of a particular response to a test item. Unlike classical test theory, IRT models item-level behavior, enabling more precise measurement and principled test construction.&#xA;Why IRT matters IRT provides the theoretical backbone for modern educational and psychological measurement. It underlies Computerized Adaptive Testing (CAT), item banking, test equating, and differential item functioning analysis.</description>
     </item>
   </channel>
 </rss>
