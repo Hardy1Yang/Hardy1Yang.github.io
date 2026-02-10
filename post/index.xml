@@ -18,6 +18,13 @@
       <description>Adaptive methods refer to experimental procedures in which the stimulus presented on each trial depends on the observer&amp;rsquo;s responses on previous trials. In psychophysics, these methods efficiently estimate perceptual thresholds by concentrating stimulus presentations near the threshold region. In educational testing, the same principle drives Computerized Adaptive Testing (CAT), where item selection is tailored to the examinee&amp;rsquo;s estimated ability.&#xA;Stochastic approximation At the core of many adaptive methods lies stochastic approximation, originally introduced by Robbins and Monro (1951).</description>
     </item>
     <item>
+      <title>Applied Economics</title>
+      <link>https://Hardy1Yang.github.io/post/applied-economics/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
+      <guid>https://Hardy1Yang.github.io/post/applied-economics/</guid>
+      <description>During my full-time research assistantship at the Department of Economics, National Taiwan University (July 2023 &amp;ndash; February 2025), I had the opportunity to work extensively with large-scale administrative datasets from Taiwan&amp;rsquo;s government agencies. This experience broadened my research interests into applied economics, where rigorous quantitative methods meet real-world policy questions.&#xA;Administrative data and empirical methods A distinctive feature of this line of research is the use of comprehensive administrative records&amp;mdash;including income tax returns from the Ministry of Finance and pet registration data from the Ministry of Agriculture&amp;mdash;that cover the entire population of Taiwan.</description>
+    </item>
+    <item>
       <title>Drift Diffusion Model</title>
       <link>https://Hardy1Yang.github.io/post/ddm/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
