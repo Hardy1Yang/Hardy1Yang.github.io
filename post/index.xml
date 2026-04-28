@@ -1,42 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on HHY&#39;s Web Page</title>
-    <link>https://Hardy1Yang.github.io/post/</link>
-    <description>Recent content in Posts on HHY&#39;s Web Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>d11227103@ntu.edu.tw (Hau-Hung Yang)</managingEditor>
-    <webMaster>d11227103@ntu.edu.tw (Hau-Hung Yang)</webMaster>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Hardy1Yang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adaptive Methods</title>
-      <link>https://Hardy1Yang.github.io/post/adaptive/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
-      <guid>https://Hardy1Yang.github.io/post/adaptive/</guid>
-      <description>Adaptive methods refer to experimental procedures in which the stimulus presented on each trial depends on the observer&amp;rsquo;s responses on previous trials. In psychophysics, these methods efficiently estimate perceptual thresholds by concentrating stimulus presentations near the threshold region. In educational testing, the same principle drives Computerized Adaptive Testing (CAT), where item selection is tailored to the examinee&amp;rsquo;s estimated ability.&#xA;Stochastic approximation At the core of many adaptive methods lies stochastic approximation, originally introduced by Robbins and Monro (1951).</description>
-    </item>
-    <item>
-      <title>Applied Economics</title>
-      <link>https://Hardy1Yang.github.io/post/applied-economics/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
-      <guid>https://Hardy1Yang.github.io/post/applied-economics/</guid>
-      <description>During my full-time research assistantship at the Department of Economics, National Taiwan University (July 2023 &amp;ndash; February 2025), I had the opportunity to work extensively with large-scale administrative datasets from Taiwan&amp;rsquo;s government agencies. This experience broadened my research interests into applied economics, where rigorous quantitative methods meet real-world policy questions.&#xA;Administrative data and empirical methods A distinctive feature of this line of research is the use of comprehensive administrative records&amp;mdash;including income tax returns from the Ministry of Finance and pet registration data from the Ministry of Agriculture&amp;mdash;that cover the entire population of Taiwan.</description>
-    </item>
-    <item>
-      <title>Drift Diffusion Model</title>
-      <link>https://Hardy1Yang.github.io/post/ddm/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
-      <guid>https://Hardy1Yang.github.io/post/ddm/</guid>
-      <description>The Drift Diffusion Model (DDM) is a mathematical model of two-alternative forced-choice decision-making. It assumes that evidence accumulates over time as a noisy process (Wiener diffusion) drifting toward one of two decision boundaries. The model simultaneously accounts for both choice accuracy and response time distributions, making it a powerful tool for understanding the cognitive mechanisms underlying decisions.&#xA;Key components The DDM is characterized by several parameters, each with a psychological interpretation:</description>
-    </item>
-    <item>
-      <title>Item Response Theory</title>
-      <link>https://Hardy1Yang.github.io/post/irt/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
-      <guid>https://Hardy1Yang.github.io/post/irt/</guid>
-      <description>Item Response Theory (IRT) is a family of statistical models that describe the relationship between a latent trait (e.g., ability, attitude) and the probability of a particular response to a test item. Unlike classical test theory, IRT models item-level behavior, enabling more precise measurement and principled test construction.&#xA;Why IRT matters IRT provides the theoretical backbone for modern educational and psychological measurement. It underlies Computerized Adaptive Testing (CAT), item banking, test equating, and differential item functioning analysis.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on HHY's Web Page</title><link>https://Hardy1Yang.github.io/post/</link><description>Recent content in Posts on HHY's Web Page</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Hardy1Yang.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Adaptive Methods</title><link>https://Hardy1Yang.github.io/post/adaptive/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://Hardy1Yang.github.io/post/adaptive/</guid><description>&lt;p&gt;Adaptive methods refer to experimental procedures in which the stimulus presented on each trial depends on the observer&amp;rsquo;s responses on previous trials. In psychophysics, these methods efficiently estimate perceptual thresholds by concentrating stimulus presentations near the threshold region. In educational testing, the same principle drives Computerized Adaptive Testing (CAT), where item selection is tailored to the examinee&amp;rsquo;s estimated ability.&lt;/p&gt;
+&lt;h2 id="stochastic-approximation"&gt;Stochastic approximation&lt;/h2&gt;
+&lt;p&gt;At the core of many adaptive methods lies stochastic approximation, originally introduced by Robbins and Monro (1951). The Robbins-Monro process provides a general framework for finding the root of an unknown function using noisy observations. In psychophysics, this translates to iteratively adjusting stimulus intensity to converge on the threshold where the observer&amp;rsquo;s detection probability reaches a target level.&lt;/p&gt;</description></item><item><title>Applied Economics</title><link>https://Hardy1Yang.github.io/post/applied-economics/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://Hardy1Yang.github.io/post/applied-economics/</guid><description>&lt;p&gt;During my full-time research assistantship at the Department of Economics, National Taiwan University (July 2023 &amp;ndash; February 2025), I had the opportunity to work extensively with large-scale administrative datasets from Taiwan&amp;rsquo;s government agencies. This experience broadened my research interests into applied economics, where rigorous quantitative methods meet real-world policy questions.&lt;/p&gt;
+&lt;h2 id="administrative-data-and-empirical-methods"&gt;Administrative data and empirical methods&lt;/h2&gt;
+&lt;p&gt;A distinctive feature of this line of research is the use of comprehensive administrative records&amp;mdash;including income tax returns from the Ministry of Finance and pet registration data from the Ministry of Agriculture&amp;mdash;that cover the entire population of Taiwan. These data allow us to study economic behavior at a scale and level of detail that survey data alone cannot provide, while also demanding careful data linking, cleaning, and econometric analysis.&lt;/p&gt;</description></item><item><title>Drift Diffusion Model</title><link>https://Hardy1Yang.github.io/post/ddm/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://Hardy1Yang.github.io/post/ddm/</guid><description>&lt;p&gt;The Drift Diffusion Model (DDM) is a mathematical model of two-alternative forced-choice decision-making. It assumes that evidence accumulates over time as a noisy process (Wiener diffusion) drifting toward one of two decision boundaries. The model simultaneously accounts for both choice accuracy and response time distributions, making it a powerful tool for understanding the cognitive mechanisms underlying decisions.&lt;/p&gt;
+&lt;h2 id="key-components"&gt;Key components&lt;/h2&gt;
+&lt;p&gt;The DDM is characterized by several parameters, each with a psychological interpretation:&lt;/p&gt;</description></item><item><title>Item Response Theory</title><link>https://Hardy1Yang.github.io/post/irt/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://Hardy1Yang.github.io/post/irt/</guid><description>&lt;p&gt;Item Response Theory (IRT) is a family of statistical models that describe the relationship between a latent trait (e.g., ability, attitude) and the probability of a particular response to a test item. Unlike classical test theory, IRT models item-level behavior, enabling more precise measurement and principled test construction.&lt;/p&gt;
+&lt;h2 id="why-irt-matters"&gt;Why IRT matters&lt;/h2&gt;
+&lt;p&gt;IRT provides the theoretical backbone for modern educational and psychological measurement. It underlies Computerized Adaptive Testing (CAT), item banking, test equating, and differential item functioning analysis. By modeling each item&amp;rsquo;s characteristics (difficulty, discrimination, guessing), IRT enables tests that adapt to individual examinees and yield comparable scores across different item sets.&lt;/p&gt;</description></item></channel></rss>

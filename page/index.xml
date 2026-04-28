@@ -1,41 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on HHY&#39;s Web Page</title>
-    <link>https://Hardy1Yang.github.io/page/</link>
-    <description>Recent content in Pages on HHY&#39;s Web Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>d11227103@ntu.edu.tw (Hau-Hung Yang)</managingEditor>
-    <webMaster>d11227103@ntu.edu.tw (Hau-Hung Yang)</webMaster>
-    <atom:link href="https://Hardy1Yang.github.io/page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About me</title>
-      <link>https://Hardy1Yang.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
-      <guid>https://Hardy1Yang.github.io/page/about/</guid>
-      <description>I am a Ph.D. candidate in Psychology at National Taiwan University (NTU), expecting to graduate in July 2026. My research focuses on mathematical psychology and psychometrics, with a particular emphasis on developing finite-sample theoretical guarantees for Computerized Adaptive Testing (CAT) algorithms. My dissertation, supervised by Prof. Yung-Fong Hsu, bridges Item Response Theory and Online Convex Optimization to address both the precision and robustness of adaptive testing.&#xA;I have published in journals including Psychometrika, Journal of Mathematical Psychology, and Behaviormetrika, and have presented at major international conferences such as IMPS, EcoSta, and MathPsych.</description>
-    </item>
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>https://Hardy1Yang.github.io/page/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
-      <guid>https://Hardy1Yang.github.io/page/cv/</guid>
-      <description>Education Ph.D. in Psychology (Expected July 2026), National Taiwan University, Taipei, Taiwan (R.O.C.) GPA: 4.19/4.3 Dissertation: Precision and Robustness in Adaptive Testing: An Item Response Theory Analysis within an Online Convex Optimization Framework Advisor: Prof. Yung-Fong Hsu M.S. in Psychology, National Taiwan University, Taipei, Taiwan (R.O.C.), 2022 GPA: 4.13/4.3 B.S. in Psychology, National Taiwan University, Taipei, Taiwan (R.O.C.), 2020 GPA: 4.12/4.3 Employment Full-time Research Assistant (R&amp;amp;D Substitute Military Service), Department of Economics, National Taiwan University, July 2023 &amp;ndash; February 2025 Published Papers Yang, H.</description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>https://Hardy1Yang.github.io/page/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
-      <guid>https://Hardy1Yang.github.io/page/research/</guid>
-      <description>Precision and Robustness in Adaptive Testing: An IRT Analysis within an Online Convex Optimization Framework (Dissertation) My dissertation addresses the finite-sample performance of Computerized Adaptive Testing (CAT) algorithms by incorporating the Online Convex Optimization (OCO) framework. On the precision front, I demonstrate that classical information-maximization methods constitute no-regret algorithms and construct anytime-valid confidence intervals using martingale concentration inequalities. On the robustness front, I adapt the Upper Confidence Bound algorithm from multi-armed bandit literature to design item selection strategies that account for the exploration-exploitation trade-off in early-stage estimation.</description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>https://Hardy1Yang.github.io/page/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>d11227103@ntu.edu.tw (Hau-Hung Yang)</author>
-      <guid>https://Hardy1Yang.github.io/page/teaching/</guid>
-      <description>Teaching Assistant PSY7001, Experimental Design, Fall 2024 PSY5033, Applied Linear Regression, Spring 2023 PSY7001, Experimental Design, Fall 2022 PSY3010, Intermediate Statistics, Fall 2021 PSY1004, Statistics in Psychology and Education II, Spring 2021 PSY1003, Statistics in Psychology and Education I, Fall 2020 PSY1004, Statistics in Psychology and Education II, Spring 2020 PSY1003, Statistics in Psychology and Education I, Fall 2019 </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on HHY's Web Page</title><link>https://Hardy1Yang.github.io/page/</link><description>Recent content in Pages on HHY's Web Page</description><generator>Hugo</generator><language>en</language><atom:link href="https://Hardy1Yang.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://Hardy1Yang.github.io/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Hardy1Yang.github.io/page/about/</guid><description>&lt;link rel="stylesheet" href="https://Hardy1Yang.github.io/css/hugo-easy-gallery.css" /&gt;
+&lt;div class="box" style="max-width:500px"&gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img"&gt;
+ &lt;img itemprop="thumbnail" src="https://Hardy1Yang.github.io/img/Ray.JPG" alt="/img/Ray.JPG"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://Hardy1Yang.github.io/img/Ray.JPG" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I am a Ph.D. candidate in Psychology at National Taiwan University (NTU), expecting to graduate in July 2026. My research focuses on mathematical psychology and psychometrics, with a particular emphasis on developing finite-sample theoretical guarantees for Computerized Adaptive Testing (CAT) algorithms. My dissertation, supervised by Prof. Yung-Fong Hsu, bridges Item Response Theory and Online Convex Optimization to address both the precision and robustness of adaptive testing.&lt;/p&gt;
+&lt;p&gt;I have published or have papers forthcoming in journals including &lt;em&gt;Psychometrika&lt;/em&gt;, &lt;em&gt;Journal of Mathematical Psychology&lt;/em&gt;, &lt;em&gt;Behaviormetrika&lt;/em&gt;, &lt;em&gt;Taiwan Economic Review&lt;/em&gt;, and &lt;em&gt;Economic Inquiry&lt;/em&gt;, and have presented at major international conferences such as IMPS, EcoSta, and MathPsych. Beyond psychometrics, I have interdisciplinary research experience in economics (labor market analysis, household decision-making) and neuroscience (fMRI studies on decision-making under risk).&lt;/p&gt;</description></item><item><title>Curriculum Vitae</title><link>https://Hardy1Yang.github.io/page/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Hardy1Yang.github.io/page/cv/</guid><description>&lt;h1 id="education"&gt;Education&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D. in Psychology (Expected July 2026), National Taiwan University, Taipei, Taiwan (R.O.C.)
+&lt;ul&gt;
+&lt;li&gt;GPA: 4.19/4.3&lt;/li&gt;
+&lt;li&gt;Dissertation: &lt;em&gt;Precision and Robustness in Adaptive Testing: An Item Response Theory Analysis within an Online Convex Optimization Framework&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Advisor: Prof. Yung-Fong Hsu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;M.S. in Psychology, National Taiwan University, Taipei, Taiwan (R.O.C.), 2022
+&lt;ul&gt;
+&lt;li&gt;GPA: 4.13/4.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;B.S. in Psychology, National Taiwan University, Taipei, Taiwan (R.O.C.), 2020
+&lt;ul&gt;
+&lt;li&gt;GPA: 4.12/4.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="employment"&gt;Employment&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Full-time Research Assistant (R&amp;amp;D Substitute Military Service), Department of Economics, National Taiwan University, July 2023 &amp;ndash; February 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="project-experience"&gt;Project Experience&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;On the Estimation of Standard Errors for the Ability Estimate in Item Response Models&lt;/strong&gt; (PI: Prof. Yung-Fong Hsu) — Aug. 2024 &amp;ndash; Present
+Concerns the estimation of standard errors for the ability estimate in IRT models, contributing to the advancement of estimation methods for computerized adaptive testing. My work covers algorithm development, simulation experiments, literature review, and manuscript preparation.&lt;/p&gt;</description></item><item><title>Research</title><link>https://Hardy1Yang.github.io/page/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Hardy1Yang.github.io/page/research/</guid><description>&lt;h3 id="precision-and-robustness-in-adaptive-testing-an-irt-analysis-within-an-online-convex-optimization-framework-dissertation"&gt;Precision and Robustness in Adaptive Testing: An IRT Analysis within an Online Convex Optimization Framework (Dissertation)&lt;/h3&gt;
+&lt;p&gt;My dissertation addresses the finite-sample performance of Computerized Adaptive Testing (CAT) algorithms by incorporating the Online Convex Optimization (OCO) framework. On the precision front, I demonstrate that classical information-maximization methods constitute no-regret algorithms and construct anytime-valid confidence intervals using martingale concentration inequalities. On the robustness front, I adapt the Upper Confidence Bound algorithm from multi-armed bandit literature to design item selection strategies that account for the exploration-exploitation trade-off in early-stage estimation.&lt;/p&gt;</description></item><item><title>Teaching</title><link>https://Hardy1Yang.github.io/page/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Hardy1Yang.github.io/page/teaching/</guid><description>&lt;h1 id="teaching-assistant"&gt;Teaching Assistant&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;PSY7001, Experimental Design, Fall 2024&lt;/li&gt;
+&lt;li&gt;PSY5033, Applied Linear Regression, Spring 2023&lt;/li&gt;
+&lt;li&gt;PSY7001, Experimental Design, Fall 2022&lt;/li&gt;
+&lt;li&gt;PSY3010, Intermediate Statistics, Fall 2021&lt;/li&gt;
+&lt;li&gt;PSY1004, Statistics in Psychology and Education II, Spring 2021&lt;/li&gt;
+&lt;li&gt;PSY1003, Statistics in Psychology and Education I, Fall 2020&lt;/li&gt;
+&lt;li&gt;PSY1004, Statistics in Psychology and Education II, Spring 2020&lt;/li&gt;
+&lt;li&gt;PSY1003, Statistics in Psychology and Education I, Fall 2019&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
